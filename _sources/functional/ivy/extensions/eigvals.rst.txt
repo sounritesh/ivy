@@ -2,8 +2,6 @@ eigvals
 =======
 
 .. autofunction:: ivy.functional.ivy.extensions.eigvals
-
-.. autofunction:: ivy.array.array_methods.eigvals
 |
 | **Supported Frameworks:**
 
@@ -23,13 +21,3 @@ eigvals
 
 .. |numpy_logo| image:: ../../../logos/supported/numpy_logo.png
    :target: https://numpy.org
-
-
-.. toctree::
-   :hidden:
-   :maxdepth: -1
-   :caption: eigvals
-
-   eigvals/eigvals_functional.rst
-   eigvals/eigvals_array.rst
-

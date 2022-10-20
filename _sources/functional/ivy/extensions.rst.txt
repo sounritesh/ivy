@@ -30,6 +30,7 @@ Extensions
    extensions/pad.rst
    extensions/heaviside.rst
    extensions/median.rst
+   extensions/eigvals.rst
    extensions/flipud.rst
    extensions/fmod.rst
    extensions/fmax.rst

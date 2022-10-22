@@ -317,6 +317,7 @@ Citation
    :caption: Functions
 
    functional/backends.rst
+   functional/extensions.rst
    functional/frontends.rst
    functional/ivy.rst
 
@@ -326,8 +327,8 @@ Citation
    :maxdepth: -1
    :caption: Data Classes
 
-   data_classes/array.rst
    data_classes/container.rst
+   data_classes/array.rst
 
 
 .. toctree::
@@ -335,14 +336,14 @@ Citation
    :maxdepth: -1
    :caption: Framework Classes
 
-   stateful/initializers.rst
-   stateful/module.rst
-   stateful/sequential.rst
+   stateful/norms.rst
    stateful/optimizers.rst
+   stateful/initializers.rst
+   stateful/sequential.rst
    stateful/activations.rst
    stateful/layers.rst
+   stateful/module.rst
    stateful/converters.rst
-   stateful/norms.rst
 
 
 .. toctree::
